@@ -3,10 +3,7 @@ library(geiger)
 library(stringr)
 library(phytools)
 library(ggplot2)
-library(ggpubr)
 library(dplyr)
-library(diversitree)
-library(phangorn)
 
 ## set up working directory, replace path with your own path
 setwd("~/Desktop/workshop/")
